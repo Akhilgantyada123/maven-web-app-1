@@ -95,13 +95,13 @@
 	<distributionManagement>
 	
 	    <repository>
-	      <id>admin</id>
+	      <id>nexus</id>
 	      <name>Akhil</name>
 	      <url>http://13.126.17.178:8081/repository/Akhil/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>admin</id>
+	      <id>nexus</id>
 	      <name>Akhil_snapshot</name>
 	      <url>http://13.126.17.178:8081/repository/Akhil_snapshot/</url>
 	    </snapshotRepository>
